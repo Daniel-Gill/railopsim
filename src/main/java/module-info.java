@@ -1,4 +1,4 @@
-module net.danielgill {
+module net.danielgill.railopsim {
     requires transitive javafx.controls;
     requires javafx.fxml;
     requires transitive javafx.graphics;
